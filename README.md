@@ -1,4 +1,4 @@
-# Olá! Eu sou o Wallace Oliviera
+# Olá! Eu sou o Wallace Oliveira
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Java
