@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Eu+sou+Wallace+Dias;Tenho+21+anos;Curso+Ciência+da+Computação+;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Wallace+Dias;I'm+21+years+old;Major+Computer+Science+;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wallaceoll&show_icons=true&count_private=true&hide_border=true&title_color=00bfFF&icon_color=00bfFF&text_color=ffffff&bg_color=0d1117" alt="Wallace Dias github stats" /> 
