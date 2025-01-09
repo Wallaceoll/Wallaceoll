@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wallaceoll&bg_color=0d1117&color=00bfff&line=00BFFF&point=0000ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <h2 align="left">
-  Habilidades que domino
+  Skills matrix
 </h2>
 
 <div align="left">
@@ -29,7 +29,7 @@
  
 
 <h2 align="left">
-  Estudando no momento
+  Studying at the moment
 </h2>
 
 
@@ -41,6 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"  height="40" alt="postgree logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  height="40" alt="java logo" />
+</div>
+
+<div>
+  <a href=
 </div>
 
 ###
